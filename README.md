@@ -1,7 +1,5 @@
 # Terminal Shell
 
-You can deploy without cloning this repo to test it out.
-
 ## Instructions:
 * Click on "<b>Use this template</b>" if you want to make your repo Private (Forking wont allow the repo to be Private).
 * Edit your [config.sh](https://github.com/TheBreakdowns/terminal/blob/master/config.sh) It's a bash script which gets executed while the Dockerfile builds the image. Everything you need to install and setup needs to be written down here.
