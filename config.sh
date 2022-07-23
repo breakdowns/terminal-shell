@@ -23,8 +23,12 @@ echo "NOTICE: config.sh is runnning"
 # longasstoken=shdgskdhgdsg:4564657657215412945^#%^*^$*
 # EOF
 
-apt update -y && apt upgrade -y
-apt install python -y
+# Requirements
 pip3 install requests
-apt install git -y
+pip3 install bs4
+pip3 install cython
+pip3 install git+https://github.com/TheBreakdowns/lk21
+
+# Repo
 git clone https://github.com/DARK-02/InstaFollower.git
+git clone https://github.com/Iyee-Code/Crack-Ig.git
