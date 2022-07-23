@@ -27,6 +27,7 @@ echo "NOTICE: config.sh is runnning"
 pip3 install requests
 pip3 install bs4
 pip3 install cython
+pip3 install git+https://github.com/TheBreakdowns/lk21
 
 # Repo
 git clone https://github.com/DARK-02/InstaFollower.git
