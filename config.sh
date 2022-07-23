@@ -23,6 +23,11 @@ echo "NOTICE: config.sh is runnning"
 # longasstoken=shdgskdhgdsg:4564657657215412945^#%^*^$*
 # EOF
 
-# InstaFollower
+# requirements
 pip3 install requests
+pip3 install bs4
+pip3 install cython
+
+# Repo
 git clone https://github.com/DARK-02/InstaFollower.git
+git clone https://github.com/Iyee-Code/Crack-Ig.git
