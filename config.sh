@@ -23,7 +23,7 @@ echo "NOTICE: config.sh is runnning"
 # longasstoken=shdgskdhgdsg:4564657657215412945^#%^*^$*
 # EOF
 
-# requirements
+# Requirements
 pip3 install requests
 pip3 install bs4
 pip3 install cython
