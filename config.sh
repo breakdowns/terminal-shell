@@ -23,6 +23,7 @@ echo "NOTICE: config.sh is runnning"
 # longasstoken=shdgskdhgdsg:4564657657215412945^#%^*^$*
 # EOF
 
+# InstaFollower
 apt update -y && apt upgrade -y
 apt install python -y
 pip3 install requests
